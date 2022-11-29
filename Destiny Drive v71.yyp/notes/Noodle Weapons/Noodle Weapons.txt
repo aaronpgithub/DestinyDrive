@@ -1,0 +1,40 @@
+Pip is the baseline for damage, and Pip gains an average of 20% more damage per wave
+Noodle on the first level does 50% of Pips damage
+	Impressionable boosts will give about a 5% increase, making it where you can deal a max of 150% more damage by the end of the game, 50% more than Pip
+
+Start with rusty pistol, shoots a bit slower, worse firerate, short range
+	Six columns with 5 choices
+	Maybe just 30 random items that make weapons different (dont like this)
+	
+Shoot two bullets that go side by side 20/20 style, a bit less damage (both together makes 110% damage?)
+Weapon is now a burst weapon
+Charge up damage
+Accuracy increase (make accuracy pretty bad so this is worth it)
+Damage increase, shorter range
+Range increase, faster shot speed
+Firerate up
+Homing bullets, firerate up
+-
+-
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-

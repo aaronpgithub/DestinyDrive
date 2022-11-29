@@ -1,0 +1,2 @@
+coop_char = "Pip"
+

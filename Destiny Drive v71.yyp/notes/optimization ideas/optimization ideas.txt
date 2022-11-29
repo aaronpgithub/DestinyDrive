@@ -1,0 +1,10 @@
+Lower amount of variables
+Probably fix texture page
+
+bounce (in enemybulletparent)
+bounce = 0 //no bounce
+bounce = 1 //bounce off the back of screen
+bounce = 2 //bounce off road (road_bounce)
+boucne = 3 //both
+
+remove road_bounce

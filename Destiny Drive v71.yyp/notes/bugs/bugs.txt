@@ -1,0 +1,93 @@
+toggle trigger needs a bullet limit
+
+Toggle trigger, wavy bullets, jet bullets, causes bullets to die because going off screen
+
+The Plague did some attacks multiple times, might be because transition doesnt consider that attack_choice now does different attacks and doesnt add it in
+
+brick might be buggy
+memory leak with brick
+
+The Plague that spit attack is still WAY to op
+swamp is hard
+
+Remove Clarity Pill, has a huge chance to make you OP
+Brave Spirit doesn't show multiplier change on the menu
+Forest Homing stopped working?
+
+enemies in ocean take FOREVER to attack
+if a mermaid is in the front, their tridents usually dont come down.
+
+Teleport lines dont show up on later levels, depth thing i guess
+
+with arrow gun, repeated bullets follow same angle.
+
+unchangable pickups arent rerolled by Telekinetic. Bad or good?
+
+some bullets will need to not be destroyed... thats gonna be fun to code
+
+level name doesnt show up on wasteland
+
+At the end of the swamped 2nd fast, make sawer bass do a swipe up
+
+lots of surfaces when playing game...
+
+fix pamper and demon altar, they mess with pickup_parameter
+	-also let it be where you can use it anywhere
+	
+ak_rifle is bugged, only shoot one bullet when should shoot two.
+	
+entp medallion and particles - PROBABLY bugged
+
+NOT A BUG, but i kinda dont like how slow the transitions can be sometimes, but they're still in the realm of believeability
+	transitions are better, but code is wonky
+
+bone boys show explosion into bones when they hit the right side of the screen
+
+There might be a bug with The Plague's Portal Circle decor
+	
+planet bullets and toggle trigger
+planet bullets and flak shot is pretty much ok, KINDA weird
+heavily angled planet bullet still works, KINDA weird
+	-noodle makes it real wacky
+	
+There might be a bug with parasite spawner, had two follower worms very close to each other
+
+insta bullets and cigar
+
+Queen flies
+
+Silly text
+
+Fix ds list global.character_traits, pretty much just remove it
+
+The Plague transition 1:
+	Anti anomaly
+	insta bullet bounce...
+	
+The plague and forest rain
+
+When going to new level, clear ds lists i think
+
+more enemies
+
+FIX ITEM DESCRIPTIONS OF:
+Essence of pity
+Spirit heart
+Measuring Cup
+
+Try to lower amount of variables
+
+Parasite worm is weird?
+
+Relic of Rando: 
+	if on boss wave:
+		One random damage item, one random non damage item
+	if not on boss wave
+		Two random non damage items
+		
+Fix difficulty curve in levels, make it increase in difficulty on the swamp at least
+	Make a switch wave script
+	
+	On AT LEAST the swamp, switch it so the large enemies, when placed, are placed in the last 5 waves
+	
+	Probably put the increased enemy count waves on the later waves

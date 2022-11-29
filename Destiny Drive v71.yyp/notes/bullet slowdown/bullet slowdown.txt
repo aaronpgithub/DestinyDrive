@@ -1,0 +1,33 @@
+Bullet speed slowdown needs to take into account:
+Alarm for reshooting bullets
+
+I think that it needs to be a gray area
+Eggi
+	Healing isnt slowed
+	Spiral (alarm to start shooting) not slowed
+	Spiral alarm between bullets is slowed
+Splurters
+	Alarm between bullets isnt slowed?
+Buddy
+	Alarm between bullets is slowed
+	Alarm between BURSTS isnt slowed?
+Host
+	Alarm between bullets isnt slowed?
+Bird
+	Alarm between bullets isnt slowed?
+Tubbsy
+	Alarm between bullets isnt slowed
+Gatling
+	Alarm between bullets IS slowed
+	Alarm between bursts isnt slowed
+Bandit Car
+	Alarm between bursts isnt slowed
+	Alarm between shots IS slowed
+
+Mutt n Friends
+	Every alarm is slowed except 
+	FRIENDS
+		Alarm between shots is slowed
+		Alarm between bursts isnt slowed
+		
+King Bubbs

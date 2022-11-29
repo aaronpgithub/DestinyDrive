@@ -1,0 +1,99 @@
+PIP
+	-Blood Gamble - Take damage to reroll items.
+		PLAYSTYLES
+			-Red : Standard, start with 20 HP and Blood Fangs
+			-Blue : Alternative, start with 10 HP, 5 Shields, and Bracelet of Protection
+				-Unlock by having 20 shields at one time
+			-Yellow : Simple fun, start with 80% damage and 120% fire rate
+				-Unlock by holding fire button down for 5 levels straight, can only stop for half a second
+			-Green : 15 HP, no health drops, no shields, regen 1 hp per wave.
+				-Unlock by 
+			-Purple : 5 HP, blood fangs always drops
+				-Unlock by having 50 HP
+	
+TURF
+	-Chisel - Take damage in bulk at the end of the wave. Before wave is over, remove damage, but lower stat for the level.
+		PLAYSTYLES
+			-Turf : Standard, 20 HP
+			-Sigil of Resilience : Chisel affects fire rate, not damage. Same DPS change
+				-Unlock by chiselling the max amount of times and beating the level
+			-Sigil of Accumulation : Pellet bullets now shoot a singular large bullet.
+				-Unlock by missing no shots 3 levels in a row.
+			-Sigil of Power : Severe shot speed and range down, damage up, fire rate down, 10 HP
+				-Unlock by killing 100 enemies without taking damage.
+			-Grafitti : Fire rate way up, damage way down, rainbow bullets
+				-Unlock by 
+	
+Spice (MAYBE REMOVE)
+	-Gambler's Curse : Shops are now just big gambling machines, medkits, armor kits, items, all jumbled
+		-Items gotten outside shops are now three items, but you have to roll to get it, not luck based?
+
+Alien
+	-Storage Compartment - Have two use items at once.
+		PLAYSTYLES
+			-Alien : Standard, 20 HP
+			-Racer : 15 HP, use items charge 1 wave quicker
+				-Unlock by 
+			-Wing : Burst weapons now shoot bullets side by side (?)
+				-Unlock by not missing any bullets for 5 levels in a row
+			-Diesel : Each kill gives one charge to use item, but 5 HP and 80% firerate. (?)
+				-Unlock by having an active use timer last for 10 seconds
+			-
+	
+Noodle
+	-Impressionable - Start with SMG, and get no weapon tree. Instead, choose custom parts to make your own custom gun.
+	DEV-(Give a grid of 6 x ?), and every circle deletes the circle next to it.
+		PLAYSTYLES
+			-Noodle : Standard, 10 HP
+	
+Criminal
+	-Use a token to steal an item from the shop, but then get a heat level increase. Heat levels will spawn in police enemies that do a crazy bullet pattern, you dont
+	have to attack them, just survive a quick and hard bullet pattern
+		PLAYSTYLES
+			-Criminal : Standard, 15 HP
+			-Supermax : Max heat level, one of the items is always free and higher chance of a purple button
+			-
+
+Bone Boy (Maybe remove)
+	-Protective Parents - Bone Boys don't hurt you. Instead, killing them makes them attack other enemies.
+	-Gatherer - Change between 5 different modes to gather berries. Different spells must be cast for these berries.
+		-Use berries for something
+
+Dastardly Devil
+	-Shadow Manipulation - Teleport. Recharge after 1 second
+	DEV-Show teleport charge by making Devil black after tele, and slowly return to normal color. Flash white when charged
+		PLAYSTYLES
+			-Dastardly Devil : Standard, 15 HP
+			-Ice Devil : 10 HP, While choosing teleport freezes bullets in place, 2x longer cooldown
+				-Unlock by 
+			-Shadow Devil : 5 HP, Teleport ability cooldown cut in half
+				-Unlock by teleporting at least a second after the teleport recharges for 2 levels in a row
+			-Angel : 
+	
+Dyna Mike (NEW IDEA PLEASE?)
+	-Reload weapons. To reload you must click right click and mash the click to reload faster. Weapons are explosive and strong.
+		PLAYSTYLES
+			-Dyna Mike : Standard, 10 HP and reloading
+			-
+	
+Disease (NEW IDEA PLEASE?)
+	-Killing enemies gives you small mushroom buddies.
+	-Small mushroom buddies only have 3 HP, but your active ability makes them invincible, while you take double damage.
+	They form a small circle around you like despair shield, and they go inside you and disappear when right click
+	Can get max of six, increasing damage by 10%, you start with 60% max damage
+	
+	
+Spirit of Despair
+	-Start with 1 HP. Start with spirit heart, which gives you one shield each round. Spirit heart also gives you temporary invincibility when your shields break.
+		PLAYSTYLES
+			-Spirit of Despair : Standard, 1 HP and 1 Shield, no more.
+			-(Maybe only character that doesn't get more playstyles?)
+			
+Rando Obbles
+	-Rando - Get two random items, start with random HP.
+		PLAYSTYLES
+			-Rando Obbles : Get two random items, start with random HP.
+			-Ramdo : Get a random gun each wave
+			-Rando COOLbles : Only get one item, but it's really cool
+			-Rando Statles : Stats are super random (damage and firerate are inverse, shotspeed accuracy inverse minorly)
+			-The Oblet : Get 6 random items instead of two, but only get 5 HP.

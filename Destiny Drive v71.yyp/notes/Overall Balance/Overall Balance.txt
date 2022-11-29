@@ -1,0 +1,21 @@
+Make Swamp and Wasteland easier, I think
+
+Bosses and minibosses are difficult and don't leave as much room for difficulty expansion as id like
+
+Enemies need less HP and be a bit more attackish, maybe
+	-definitely lower HP though, lower the time it takes to beat a level
+	-To combat having lower HP, need to make it where they hve a chance to attack
+	
+PIP BALANCE
+	LEVEL 1
+		30 DPS
+	
+	LEVEL 2
+		32 GUN DPS
+		+ MAX OF 20% MORE DPS
+		38.4 MAX DPS ON THIS LEVEL
+	
+	LEVEL 3
+		MAX OF 40 GUN DPS
+		+ MAX OF 20% MORE DPS (40% BASE INCREASE)
+		56 MAX DPS ON THIS LEVEL

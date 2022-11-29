@@ -1,0 +1,22 @@
+HP
+	Heals for 2 HP.
+
+Shield
+	Gives 1 shield.
+	Shields always take 1 damage.
+
+Powershield (30% chance to change)
+	Powershields are only usable every 10 seconds (about the length of one attack)
+	Powershields need to be rarer than most other pickups
+	
+Energy (30% chance to change)
+	Charge active items for 1/3 of their max charge bar.
+	Don't spawn if you don't have a use item.
+	Pretty rare, same level as powershield
+
+Chest (40% chance to change)
+	Rarest pickup
+	Can spawn 1-3 pickups
+	Can be a blood chest, take damage and you'll get good rewards, 2-3 pickups
+	Can be a mimic, fight a 30 second boss (once per level) and you'll get good rewards, 2 tokens, 2-3 pickups, and small chance at a shop item
+		-Item that makes there always be a mimic chest on a level

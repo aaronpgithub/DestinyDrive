@@ -1,0 +1,43 @@
+Time Shifter Clock boss
+On transition, pause bullets every five seconds and add new stuff
+
+Snow level: Small snowball enemies that just shoot filler slow bullets
+
+To get true final boss, you must select items at the end of levels that have an evil electricity around them
+After selecting, fight three 1 minute bosses, you fight one boss after each item picked up and after three items
+you unlock the final boss
+(Kinda cool, but players may not want to go to true final boss and not want to fight small bosses)
+
+Dyna Mike : Reload weapons, to reload you must stand in place and mash active button
+			In return, weapons are usually strong and slow
+
+The small little blaster guys in City should have jets, so they should have jet blast particles under them
+
+A boss that sends out lines, and all attacks follow the lines.
+	-random line placement each time you fight
+	-City boss, make assassin a city miniboss
+	
+	change circle collision for player when have strange serum
+	
+	
+	WITH RADICAL MAN
+		-Laser blasts, alternate
+		-Constant disco balls shooting a few lasers
+			-one attack that increases disco ball frequency
+		-Stampede of girls constantly behind, you cant touch the wall
+			-one attack where they throw kisses
+		-the kiss and laser attack happens with each other
+			-if only one happens, then thats when the paparazzi is here to take pics
+				-attacks are watered down so a bit easier
+		-laser square
+			-lasers in a circle of the square
+			-lasers wave back and forth
+			
+			
+when behind the enemies when a grappler exists, he gets angry and spams bullets
+
+UNIMPOSSIBLE MODE
+Attacks are TECHNICALLY possible, but basically makes the game not fun
+
+Bullets are random in size, fire rate up
+

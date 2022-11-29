@@ -1,0 +1,20 @@
+Get three pickups while holding right click to get special abilities
+If you give the chef a pickup, you don't get the pickup abilities yourself.
+
+HEART HEART HEART
+Heal (HP / 2).
+
+SHIELD SHIELD SHIELD
+Converts all hp into shields.
+
+POWERSHIELD SHIELD SHIELD
+Destroys all bullets on screen.
+
+HEART SHIELD POWERSHIELD
+Hearts go into shields, shields into powershields, and powershields into hp.
+
+ENERGY ENERGY ENERGY
+Sends a lightning bolt that hurts enemies a bit. If playing as alien, fully charge other item.
+
+CHEST CHEST CHEST
+Spawns each pickup.

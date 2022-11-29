@@ -1,0 +1,42 @@
+Parentheses means nothing unlocked
+
+Killing Minibosses						~ 30
+Killing Bosses							~ 30
+
+Beating Levels =						  14
+Beating levels without taking damage =	  14
+Winning with Characters =				~ 8
+Beating 5th level with Characters =		~ 8
+Beating True Final with Characters =	~ 8
+Beating all levels with Characters =	~ 8
+Character specific achievements =		~ 8
+Unlocking characters =					~ 7
+Unlocking characters playstyles =		~ 28
+Winning Challenges =					~ 15
+Completing Artifacts?
+
+Collecting all Items					  (1)
+Using every gun							  1
+Killing all enemies						  1
+
+Kill 50 Eggi
+Die 1 Time
+Die 10 times
+Die 100 times
+Die before boss wave
+Die on first wave
+Play a secret level
+Beat one level flawless
+Beat two levels in a row flawless
+Beat three levels in a row flawless
+Beat four levels in a row flawless
+Beat five levels in a row flawless
+Beat a level on one HP from beginning
+Win two times in a row
+Beat secret challenge (no unlock)
+Miss 50 pickups
+Avoid pickups for 5 levels in a row
+Get all pickups for 5 levels in a row
+Pick up 100 pickups
+Get a perfect score on token bar whole game
+Beat the game in 20 minutes

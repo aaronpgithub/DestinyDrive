@@ -1,0 +1,70 @@
+Two weapons to balance for
+
+SMG - Fast lower damage
+
+REVOLVER - High damage slow fire rate
+
+enemies are 20% stronger?
+
+BOSSES
+The Plague
+	Phase 1 - Normal Phase, just do some attacks.
+		All bullets are black and white
+		Maybe some lasers or something
+			- Bullet portals that move down the road and shoot at you
+			- Shoot two bullet portals that stick to side of road, and explode into bullets
+			- Creates portals above the road that shoot slow accelerating rocket bullets that explode into flak
+			- Spits out plagued enemies that puke lines
+			- Spiral that adds more and more each angle for a short while (2nd phase attack)
+			
+	Phase 2 - Opens into a huge portal
+		-You can move anywhere on the screen
+			-All attacks are circular
+			
+			-Circle walls
+			-Four lines move quick
+			-Semi random bullets sucked or spit
+			-Cone and circle walls
+			-6 Lanes, 3 going in and 3 going out
+			-Spiral
+			
+		-Spit attack needs warning
+			-Have lines that follow you and tell you if coming from out or in
+
+Parasite Queen
+	-Pretty basic on her own, but she sends a bunch of parasitic monsters to fight for her
+	Phase 1 - Normal phase
+		-Sprays acid bullets
+		-Pukes a ball of flies at you
+		-Spits bullets that have huge sine waves
+		
+	Also while doing attacks (that are meant to be kinda easy), summons monsters
+		-Two worms spawn on each side of her, spit a burst of bubble bullets, and leave.
+			-these bullets are very slow, and shoot bullets perpindicular to their own angle.
+			-Bounces off sides of roads.
+		-A flying worm that pukes swamp rat blasts of bullets quickly.
+		-A flying sack of meat that pukes big undodgable blasts of bullets, you must avoid the whole blast.
+		-Two worms on each side of her that puke big bullets that go forward.
+			-These bullets shoot a spiral of bullets.
+		-Two worms on each side of her that follow her sine and shoot slow bullets directly at you.
+
+	Phase 2 - All skin falls off, turns into Skeletal Parasite Worm
+		-ALL attacks are homing?
+
+Spooky Scott
+	Phase 1 - Normal phase
+		- Screams, making a cone that you must follow
+		- Sends out wall of bullets that turns invisible
+		- BOO! comes and blasts
+		- A ghost from the past enemies youve killed comes down and does a superpower version of whatever attack they do
+			-Triple sprays bullets like mutt n friends, in a sine
+			-Swamp Buddy is much quicker with innac
+			-Swamp Rat does quick blasts at multiple angles
+			-Squid shoots a flak and leaves. Flak explodes into 2, then 4, then 6, then 8... all the way to 48 or something
+	
+	Phase 2 - Crybaby phase, ALL attacks turn invisible at some point
+		- Screams, making a cone that you must follow, turns invisible
+		- Sends down tear rain, zig zagging in playable field
+		- WAH! instead of BOO!
+		
+The Plague: Make portal attacks more choreographed

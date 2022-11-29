@@ -1,0 +1,13 @@
+Problem 1: Change all objects that need to be rounded to the correct x and y.
+	Solutions:
+		1. Make a rx and ry that are rounded versions of x and y coords. (BEST SO FAR)
+		   this would be a huge undertaking
+		2. Make a script that rounds x and y variables, and draw objects at that position
+		   There would be small discrepancies in the collisions
+		   
+Problem 2: Enemy bullet speed
+		   -Alarms need to be set to correct time
+		   -Bullets need to do all special things at correct time
+		   
+Problem 3: Texture Pages
+		   -Need to add a new texture page for the menu

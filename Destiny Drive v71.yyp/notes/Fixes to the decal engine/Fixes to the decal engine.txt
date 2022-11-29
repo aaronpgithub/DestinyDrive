@@ -1,0 +1,15 @@
+Congrats! You got it kinda working...
+
+
+1. Make moving decals a loop, you can slightly tell when they reset
+2. Make everything have specific scripts so you can make new decorations easier
+3. TRY to make it where each sprite can have slightly specific changes, like image index and y position.
+
+make the transitions come in WAAAAY quicker...
+the far background is backing up all the other transitions...
+
+need to make it where the far background changes to the transition quicker
+to do this, make the looping movement
+if its transitioning time, and the third decal isn't on the screen, add enough so the third is on the screen.
+	-next, make sure its in the same position (and later when you have randomized far backgrounds, make sure its the same image_index)
+	-then, transition time will be quicker

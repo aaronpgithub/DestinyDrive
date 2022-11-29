@@ -1,0 +1,27 @@
+{
+  "kind": 0,
+  "closed": false,
+  "precision": 8,
+  "points": [
+    {"speed":100.0,"x":0.0,"y":0.0,},
+    {"speed":100.0,"x":2.0,"y":0.0,},
+    {"speed":100.0,"x":4.0,"y":1.0,},
+    {"speed":100.0,"x":5.0,"y":1.0,},
+    {"speed":100.0,"x":2.0,"y":-1.0,},
+    {"speed":100.0,"x":-1.0,"y":-2.0,},
+    {"speed":100.0,"x":-6.0,"y":-1.0,},
+    {"speed":100.0,"x":-5.0,"y":4.0,},
+    {"speed":100.0,"x":3.0,"y":11.0,},
+    {"speed":100.0,"x":6.0,"y":12.0,},
+    {"speed":100.0,"x":8.0,"y":12.0,},
+    {"speed":100.0,"x":9.0,"y":12.0,},
+  ],
+  "parent": {
+    "name": "Paths",
+    "path": "folders/Paths.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "pThePlagueAngryPath",
+  "tags": [],
+  "resourceType": "GMPath",
+}

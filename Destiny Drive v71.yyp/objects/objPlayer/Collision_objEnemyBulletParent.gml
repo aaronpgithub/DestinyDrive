@@ -1,0 +1,1 @@
+player_bullet_collision(other)

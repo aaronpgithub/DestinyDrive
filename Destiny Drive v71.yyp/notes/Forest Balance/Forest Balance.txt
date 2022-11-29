@@ -1,0 +1,91 @@
+THEME - Homing Bullets
+
+MINIBOSSES
+The Hunter - A Hunter of the evil in the dark forest.
+	-Shoots shotgun blasts (honestly just make this attack more interesting... have dogs behind him that shoot bullets or something
+	-Shoots grapple wire that shoots bullets perpindicular
+	-Pulls out safety revolver that shoots pistol bullets
+	-Holy water grenade
+	
+Horror Apparition - Expands on the loss of visual clarity with a darkness circle.
+	-Shoots bullets at you that you can only see OUTSIDE your darkness circle.
+	-(something with lines?) lasers
+	-Alternating lasers
+	-Screamers that shoot triple shot bursts at you
+	-Bullets that flash for a short while, making a maze or something
+	
+	MAKE LASER ATTACK CHOREOGRAPH BETTER! You have no warning of whats to come
+
+Third Miniboss - The 'homing' miniboss.
+	-Shoots a burst of bullets that homes, then explodes on the end of the road.
+	-Shoots at you
+	-Shoots big ass circles with lines on the road, all bullets home in quickly if you get close to them.
+	-Shoots sine wave
+
+BOSSES
+Nature's Bane - A huge angry tree!
+	-Shoots a sine wave of worms from behind and shoots a bullet between the sine waves (the illusion attack)
+	-Leaves fall that follow the same sine
+	-Worm walls that are kinda quick, come from behind, sine walls
+	-Branch spikes that are choreographed?
+	-Termite pokes out of tree's body and spits... something
+	
+	Phase 2
+		Gets angry, grabs you, and both fly into the sky
+	-Walls of birds fly towards you, creating music notes on the way. the music notes then move up and down (alternating), also chunks of bullet walls so you HAVE to move
+	-Birds fly from the sky, shooting music notes at you
+
+The Illusion - A magician that uses trickery in his attacks.
+	-Shoots lots of lines of bullets that move at half your y position.
+	-Checkerboard thing
+	-Shoots two circle walls
+		-Make the circle that you should go thru first blink a lot
+	-Circles that expand and contract
+	-Shoot little illusions that create spirals of bullets while moving forward, the spiral bullets have low
+		range
+	-Minor attack where he creates a bunch of bullets, from top of road to bottom, like 6 walls lined up around
+	him. They start to contract, shrink a bit, then one row of them dissapears, giving you half a second to react.
+	The bullets fly out fast.
+	
+	Phase 2
+		Opens up vest to swallow you, bring you into psychidellic world
+		Full screen movement
+	Maybe have a puzzle that is created that you have to randomly go through?
+	Go thru randomly generated path, while the screen is slowly gravitated towards a point
+	Pulled towards one of the random corners
+	
+	-The illusion shoots bullets at you every once and a while
+	
+	
+ENEMIES
+
+Psychic Bone Boy - When killed, homes in on you. Shoots slow bullets.
+	-This is a good enemy because the slow bullets make for a good obstacle, and the fast kamikaze can spice up player movement.
+
+4 More filler?
+
+
+
+
+Blind Eye - Shoots lengthdir bullets that home in angle-wise on you.
+	- Special enemy.
+
+Spitter - Shoots a very fast burst that has very good homing.
+	-Special enemy.
+	
+2 More special?
+
+
+Super Homer
+	-Shoots a big blast of slow bullets that home
+	-This is good because it creates a wall for you to maneuver around.
+
+2 More Large?
+	
+SPECIAL ENEMIES - Can only have one special enemy type on the field, and only two of that special enemy.
+
+ENEMY BALANCE
+	Special Enemies - Takes up the Medium enemy slot. Each wave has one of these special enemies, up to two on one wave. Can only be one type of special enemy.
+		-Supposed to be the 'flavor' of the wave. Other enemies are just supposed to make these guys' attacks more intense.
+	Filler Enemies
+		-Less amazing attacks, just supposed to add a little bit of bullet to each wave.

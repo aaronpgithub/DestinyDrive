@@ -1,0 +1,109 @@
+Only one weapon to balance for
+
+Player will be doing about 30 DPS
+
+PISTOL
+
+4 small enemies, maybe add one or two more
+
+1 medium enemy, add one or two more
+
+1 large enemy, thats ok
+
+VAGUE BALANCE
+Rounds should take about 10 seconds with 5 enemies
+	-If anything else, enemies should be able to get some shots in before they die
+Minibosses should be 45 seconds - 1 minute
+Bosses should be 1:30 - 2:00 minutes
+
+WASTELAND - 8 waves, 1 miniboss, 1 boss
+~3:35 - 4:20
+this estimate accounts for if there are only 5 enemies each wave, so its not accurate
+
+ENEMIES
+	SMALL
+		EGGI - The weakest enemy in the category. Heals other enemies very quickly, making them much harder to kill. If only Eggi's are alive, they all shoot out spirals of bullets.
+			2 seconds to kill
+		SPLURTER - Shoots twin shots at you.
+			4 seconds to kill
+		BUDDY - Shoots bursts of bullets at you.
+			4 seconds to kill
+		BONE BOY - The second most weakest enemy in the category. He shoots bullets slowly, but when he dies, his corpse shoots out as a bullet.
+			3 seconds to kill
+		
+		BANDIT TRUCK - Only appears in bandit towns. Shoots tiny bandit bullets.
+			4-5 seconds to kill
+
+		The Splurter and Buddy enemies share the same health value, more or less.
+
+	MEDIUM
+		HOST - Shoots a triple shot at you. More HP than Buddy and Splurter.
+			6-7 seconds to kill
+		BIRD - Pukes slow moving bullets that are very big.
+			5-7 seconds to kill
+		GATLING BANDITS - Only appears in bandit towns. Shoots a blast of bandit bullets in a straight line, with innacuracy.
+			4-5 seconds to kill
+
+	LARGE
+		TUBBSY - Burps bullets at you. When he dies, he explodes into a massive blast of bullets.
+			4-5 seconds to kill?
+		
+		Just because Tubbsy is a big enemy doesnt have to make him take forever to kill.
+		
+
+WASTELAND DECOR
+Normal - A sandy desert with piles of junk in the background.
+Bandit town - a reddish sand, lots of shantytown houses and scrap everywhere.
+	-bandit town shows up when the miniboss does. You get a random amount of waves that are in bandit town BEFORE the miniboss, and one wave in bandit town after the miniboss.
+	
+Minibosses
+Neighborhood Gang
+	-Three small enemies that do specific attacks.
+	-
+Boar Herder
+Wasteland Bully
+
+Bosses
+King Bubbs
+	2 Phases
+		-Normal Phase
+			-Just doing attacks
+				-Burp wall
+				-Bullet burp
+				-Flak bullets
+				-Knight buds
+				-Grape eating (rare)
+				-Sends out a wizard that can do 3 things:
+					-Create a few circles of bullets that shoot out
+					-Send two pillars of flame going up and down the road
+					-Send a burst of homing bullets
+		
+		-Angry Phase (35% HP left)
+			-Attacks are quicker
+				-Bullet wall now has bullets between the walls
+				-Bullet burp has more bullets
+				
+Mutt n' Friends
+Attacks
+		Angle bouncing gatling
+		Random gatling bullets
+		Miniturrets alternate shooting (sometimes mutt fires down the middle)
+		Miniturrets close in on to create a funnel while mutt shoots
+		Short attack where mutt shoots a blast (sometimes minis shoot a mini blast after)
+		All three shoot at you
+		
+	2 Phases
+		-Normal Phase
+			-Just doing attacks
+		
+		-Security Breach Phase
+			-Puts up siren
+			-Attacks are a bit quicker
+			-Sends out a flurry of mini bots that fly in the background
+			-Bullets fly down from the sky
+			
+
+Pig Machine - A GIGANTIC metal tank.
+Attacks
+	Instead of having main hard attacks, there is a conglomerate of mini attacks all at once.
+	High HP because it's impossible to miss.

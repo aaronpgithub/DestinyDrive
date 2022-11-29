@@ -1,0 +1,503 @@
+Converting GML script : ${project_dir}\scripts\shooting_script\shooting_script.gml
+Converted description : /// @description shooting_script(damage, shot speed, accuracy, firerate, automatic, release shot)/// @function shooting_script
+/// @param damage
+/// @param  shot speed
+/// @param  accuracy
+/// @param  firerate
+/// @param  automatic
+/// @param  release shot
+
+Converting GML script : ${project_dir}\scripts\bullet_shoot\bullet_shoot.gml
+Converted description : /// @description bullet_shoot(damage, shot speed, accuracy, global damage, global shot, global accuracy, extra damage, extra speed, extra accuracy, type, xoff, yoff, xpos, ypos, extra number)/// @function bullet_shoot
+/// @param damage
+/// @param  shot speed
+/// @param  accuracy
+/// @param  global damage
+/// @param  global shot
+/// @param  global accuracy
+/// @param  extra damage
+/// @param  extra speed
+/// @param  extra accuracy
+/// @param  type
+/// @param  xoff
+/// @param  yoff
+/// @param  xpos
+/// @param  ypos
+/// @param  extra number
+
+Converting GML script : ${project_dir}\scripts\combo_add\combo_add.gml
+Converted description : /// @description combo_add(max combo)/// @function combo_add
+/// @param max combo
+
+Converting GML script : ${project_dir}\scripts\is_even\is_even.gml
+Converted description : /// @description is_even(x)/// @function is_even
+/// @param x
+
+Converting GML script : ${project_dir}\scripts\draw_charge\draw_charge.gml
+Converted description : /// @description  draw_charge(x ,y ,value, max, colour, radius, transparency, width)/// @function  draw_charge
+/// @param x 
+/// @param y 
+/// @param value
+/// @param  max
+/// @param  colour
+/// @param  radius
+/// @param  transparency
+/// @param  width
+
+Converting GML script : ${project_dir}\objects\objBuzzBuzz\Alarm_1.gml
+Converted description : /// @description shooting
+
+Converting GML script : ${project_dir}\objects\objDoubleShotFire\Alarm_1.gml
+Converted description : /// @description setting burst
+
+Converting GML script : ${project_dir}\objects\objDoubleShotFire\Alarm_0.gml
+Converted description : /// @description shooting
+
+!!! Font fnItemFont uses a font (@MS PGothic) not installed on this system. Font has NOT been regenerated.
+Converting GML script : ${project_dir}\objects\objFireJunker\Alarm_0.gml
+Converted description : /// @description shoot
+
+Converting GML script : ${project_dir}\objects\objBuzzyBastardFire\Alarm_1.gml
+Converted description : /// @description shoot
+
+!!! Font fnGameFont uses a font (@MS PGothic) not installed on this system. Font has NOT been regenerated.
+!!! Font fnStatHudFont uses a font (@MS UI Gothic) not installed on this system. Font has NOT been regenerated.
+Converting GML script : ${project_dir}\objects\objDoubleShot\Alarm_0.gml
+Converted description : /// @description shooting
+
+Font fnSillyBullet has been converted to font family Comic Sans MS (Regular). Font has been regenerated, small inconsistencies may occur.
+!!! Font fnSplashFont uses a font (@MS UI Gothic) not installed on this system. Font has NOT been regenerated.
+Converting GML script : ${project_dir}\objects\objBanditTruck\Alarm_1.gml
+Converted description : /// @description shooting
+
+Converting GML script : ${project_dir}\objects\objBanditTruck\Alarm_0.gml
+Converted description : /// @description burst
+
+!!! Font fnLevelNameFont uses a font (@MS PGothic) not installed on this system. Font has NOT been regenerated.
+!!! Font fnFinalBossFont uses a font (@NSimSun) not installed on this system. Font has NOT been regenerated.
+Converting GML script : ${project_dir}\objects\objIceBoneBoy\Alarm_0.gml
+Converted description : /// @description shoot
+
+Converting GML script : ${project_dir}\objects\objCandleMan\Alarm_0.gml
+Converted description : /// @description shoot
+
+Converting GML script : ${project_dir}\objects\objJunker\Alarm_0.gml
+Converted description : /// @description shoot
+
+Converting GML script : ${project_dir}\objects\objThreateningBuzzy\Alarm_1.gml
+Converted description : /// @description shooting
+
+Converting GML script : ${project_dir}\objects\objShielder\Alarm_2.gml
+Converted description : /// @description waiting
+
+Converting GML script : ${project_dir}\objects\objRifleman\Alarm_0.gml
+Converted description : /// @description shoot
+
+Converting GML script : ${project_dir}\objects\objMonk\Alarm_1.gml
+Converted description : /// @description shooting
+
+Converting GML script : ${project_dir}\objects\objUnstableJunker\Alarm_0.gml
+Converted description : /// @description shoot
+
+Converting GML script : ${project_dir}\objects\objSmoker\Alarm_5.gml
+Converted description : /// @description shooting debris
+
+Converting GML script : ${project_dir}\objects\objHellSmoker\Alarm_5.gml
+Converted description : /// @description shooting debris
+
+Converting GML script : ${project_dir}\objects\objEnemySnowflake\Create_0.gml
+Error : variable "layer" has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+
+Converting GML script : ${project_dir}\objects\objSnowBlower\Alarm_5.gml
+Converted description : /// @description shooting debris
+
+Converting GML script : ${project_dir}\objects\objWastelandBully\Alarm_7.gml
+Converted description : /// @description shootin ya when ya too close
+
+Converting GML script : ${project_dir}\objects\objNeighborhoodGang\Collision_96fd5dfc-662f-484f-89e1-49726170b40b.gml
+Converted description : /// @description nah
+
+Converting GML script : ${project_dir}\objects\objFlyingFishWater\Alarm_0.gml
+Converted description : /// @description DO IT
+
+Converting GML script : ${project_dir}\objects\objFlyingFish\Alarm_6.gml
+Converted description : /// @description wavy!
+
+Converting GML script : ${project_dir}\objects\objFlyingFish\Alarm_5.gml
+Converted description : /// @description water spray
+
+Converting GML script : ${project_dir}\objects\objFlyingFish\Alarm_4.gml
+Converted description : /// @description water spray
+
+Converting GML script : ${project_dir}\objects\objFlyingFish\Alarm_3.gml
+Converted description : /// @description bubble
+
+Converting GML script : ${project_dir}\objects\objFlyingFish\Alarm_2.gml
+Converted description : /// @description water splash
+
+Converting GML script : ${project_dir}\objects\objHorrorAlienShot\Other_0.gml
+Converted description : /// @description no screw you
+
+Converting GML script : ${project_dir}\objects\objTheHunter\Alarm_6.gml
+Converted description : /// @description fire wall creating
+
+Converting GML script : ${project_dir}\objects\objTheHunter\Alarm_4.gml
+Converted description : /// @description Pistol
+
+Converting GML script : ${project_dir}\objects\objTheHunter\Alarm_3.gml
+Converted description : /// @description shotgun blast
+
+Converting GML script : ${project_dir}\objects\objTheHunter\Alarm_2.gml
+Converted description : /// @description Crossbow
+
+Converting GML script : ${project_dir}\objects\objHorrorApparition\Alarm_5.gml
+Converted description : /// @description alien bullets
+
+Converting GML script : ${project_dir}\objects\objHorrorApparition\Alarm_4.gml
+Converted description : /// @description Flak shots
+
+Converting GML script : ${project_dir}\objects\objHorrorApparition\Alarm_3.gml
+Converted description : /// @description Spooky ghost JUMPSCARE! Dont look at this code its a spook JUMPSCARE!
+
+Converting GML script : ${project_dir}\objects\objHorrorApparition\Alarm_2.gml
+Converted description : /// @description darkness
+
+Converting GML script : ${project_dir}\objects\objDeathGang\Collision_cfee7d2f-9e44-4e69-bd2e-c68f39250518.gml
+Converted description : /// @description nah
+
+Converting GML script : ${project_dir}\objects\objFireMage\Alarm_9.gml
+Converted description : /// @description dieeee
+
+Converting GML script : ${project_dir}\objects\objFireMage\Alarm_6.gml
+Converted description : /// @description fire wall creating
+
+Converting GML script : ${project_dir}\objects\objFireMage\Alarm_5.gml
+Converted description : /// @description fire wall
+
+Converting GML script : ${project_dir}\objects\objFireMage\Alarm_4.gml
+Converted description : /// @description fire bombs
+
+Converting GML script : ${project_dir}\objects\objFireMage\Alarm_3.gml
+Converted description : /// @description Fireball
+
+Converting GML script : ${project_dir}\objects\objFireMage\Alarm_2.gml
+Converted description : /// @description Fire Burst
+
+Converting GML script : ${project_dir}\objects\objParasiteWorm\Alarm_6.gml
+Converted description : /// @description acid spray
+
+Converting GML script : ${project_dir}\objects\objParasiteWorm\Alarm_5.gml
+Converted description : /// @description wavy hell
+
+Converting GML script : ${project_dir}\objects\objParasiteWorm\Alarm_4.gml
+Converted description : /// @description Acid Homing Walls
+
+Converting GML script : ${project_dir}\objects\objParasiteWorm\Alarm_3.gml
+Converted description : /// @description acid wall
+
+Converting GML script : ${project_dir}\objects\objParasiteWorm\Alarm_2.gml
+Converted description : /// @description acid spray
+
+Converting GML script : ${project_dir}\objects\objMiniCaravan\Alarm_7.gml
+Converted description : /// @description blast em
+
+Converting GML script : ${project_dir}\objects\objMiniCaravan\Alarm_6.gml
+Converted description : /// @description burst
+
+Converting GML script : ${project_dir}\objects\objMiniCaravan\Alarm_5.gml
+Converted description : /// @description burst setup
+
+Converting GML script : ${project_dir}\objects\objUFO\Alarm_10.gml
+Converted description : /// @description setting actual pos_y
+
+Converting GML script : ${project_dir}\objects\objUFO\Alarm_4.gml
+Converted description : /// @description laser water (Lol it aint laser water!)/// @function laser water 
+/// @param Lol it aint laser water!
+
+Converting GML script : ${project_dir}\objects\objUFO\Alarm_3.gml
+Converted description : /// @description missile
+
+Converting GML script : ${project_dir}\objects\objUFO\Alarm_2.gml
+Converted description : /// @description lasers
+
+Converting GML script : ${project_dir}\objects\objUFO\Collision_0ff4e42e-521c-4f8c-8b00-2b0e3454fac2.gml
+Converted description : /// @description nah son
+
+Converting GML script : ${project_dir}\objects\objParasiteWormShot\Other_0.gml
+Converted description : /// @description no
+
+Converting GML script : ${project_dir}\objects\objAlienPixie\Other_0.gml
+Converted description : /// @description no
+
+Converting GML script : ${project_dir}\objects\objPixieBullet\Other_0.gml
+Converted description : /// @description no
+
+Converting GML script : ${project_dir}\objects\objParasiteWormBody\Collision_baa8461b-ffee-4562-ae8b-285935e14683.gml
+Converted description : /// @description perfomed by parasite worm
+
+Converting GML script : ${project_dir}\objects\objThePlague\Alarm_7.gml
+Converted description : /// @description Walls and shit
+
+Converting GML script : ${project_dir}\objects\objCarriageOfIllusion\Alarm_4.gml
+Converted description : /// @description invert spiral
+
+Converting GML script : ${project_dir}\objects\objPixieStorm\Alarm_6.gml
+Converted description : /// @description diag walls
+
+Converting GML script : ${project_dir}\objects\objPixieStorm\Alarm_5.gml
+Converted description : /// @description alien rifle walls
+
+Converting GML script : ${project_dir}\objects\objPixieStorm\Alarm_4.gml
+Converted description : /// @description blast!
+
+Converting GML script : ${project_dir}\objects\objPixieStorm\Alarm_3.gml
+Converted description : /// @description Spinning shot
+
+Converting GML script : ${project_dir}\objects\objPixieStorm\Alarm_2.gml
+Converted description : /// @description four corner shooting
+
+Converting GML script : ${project_dir}\objects\objPixieStorm\Draw_0.gml
+Converted description : /// @description ha
+
+Converting GML script : ${project_dir}\objects\objGorganSine\Other_0.gml
+Converted description : /// @description no
+
+Converting GML script : ${project_dir}\objects\objGorganWall\Other_0.gml
+Converted description : /// @description no
+
+Converting GML script : ${project_dir}\objects\objQueenOfFliesFastMiniboss\Alarm_6.gml
+Converted description : /// @description creating a fly bullet
+
+Converting GML script : ${project_dir}\objects\objQueenOfFliesFastMiniboss\Alarm_5.gml
+Converted description : /// @description shooting during the small fly attack
+
+Converting GML script : ${project_dir}\objects\objQueenOfFliesFastMiniboss\Alarm_3.gml
+Converted description : /// @description Tiny Flies
+
+Converting GML script : ${project_dir}\objects\objQueenOfFliesFastMiniboss\Alarm_2.gml
+Converted description : /// @description sine wave
+
+Converting GML script : ${project_dir}\objects\objQueenOfFliesStrongMiniboss\Alarm_5.gml
+Converted description : /// @description spiral burst
+
+Converting GML script : ${project_dir}\objects\objQueenOfFliesStrongMiniboss\Alarm_3.gml
+Converted description : /// @description pulse bullets
+
+Converting GML script : ${project_dir}\objects\objQueenOfFliesStrongMiniboss\Alarm_2.gml
+Converted description : /// @description shoot big burst
+
+Converting GML script : ${project_dir}\objects\objAnarchistOfTime\Alarm_7.gml
+Converted description : /// @description pause
+
+Converting GML script : ${project_dir}\objects\objAnarchistOfTime\Alarm_6.gml
+Converted description : /// @description sine wave bullet creation    
+
+Converting GML script : ${project_dir}\objects\objAnarchistOfTime\Alarm_5.gml
+Converted description : /// @description creating retracting bullets
+
+Converting GML script : ${project_dir}\objects\objAnarchistOfTime\Alarm_4.gml
+Converted description : /// @description Bullet BLAST!
+
+Converting GML script : ${project_dir}\objects\objAnarchistOfTime\Alarm_3.gml
+Converted description : /// @description wavy sine things
+
+Converting GML script : ${project_dir}\objects\objAnarchistOfTime\Alarm_2.gml
+Converted description : /// @description bullet wall
+
+Converting GML script : ${project_dir}\objects\objKingBorbs\Alarm_3.gml
+Converted description : /// @description clam create
+
+Converting GML script : ${project_dir}\objects\objTheFinalBoss\Alarm_4.gml
+Converted description : /// @description len bullet
+
+Converting GML script : ${project_dir}\objects\objTheFinalBoss\Alarm_2.gml
+Converted description : /// @description bullet waves
+
+Converting GML script : ${project_dir}\objects\objTheGlitch\Destroy_0.gml
+Converted builtin : line 9 : view_angle[0] = 0 -> __view_set( e__VW.Angle, 0, 0 )
+
+Converting GML script : ${project_dir}\objects\objTheGlitch\Alarm_6.gml
+Converted description : /// @description blinky
+
+Converting GML script : ${project_dir}\objects\objTheGlitch\Alarm_5.gml
+Converted builtin : line 30 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin : line 56 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script : ${project_dir}\objects\objTheGlitch\Alarm_4.gml
+Converted description : /// @description zig
+
+Converting GML script : ${project_dir}\objects\objTheGlitch\Alarm_3.gml
+Converted description : /// @description Fractals
+
+Converting GML script : ${project_dir}\objects\objTheGlitch\Alarm_2.gml
+Converted builtin : line 2 : view_angle[0] += 180 -> __view_set( e__VW.Angle, 0, __view_get( e__VW.Angle, 0 ) + (180) )
+
+Converting GML script : ${project_dir}\objects\objTheGlitch\Step_0.gml
+Converted builtin : line 8 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin : line 9 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin : line 5 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin : line 6 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin : line 8 : view_xview[0] = lerp(__view_get( e__VW.XView, 0 ), view_x, 0.3 -> __view_set( e__VW.XView, 0, lerp(__view_get( e__VW.XView, 0 ), view_x, 0.3 )
+Converted builtin : line 9 : view_yview[0] = lerp(__view_get( e__VW.YView, 0 ), view_y, 0.3 -> __view_set( e__VW.YView, 0, lerp(__view_get( e__VW.YView, 0 ), view_y, 0.3 )
+Converted builtin : line 5 : view_wview[0] = lerp(__view_get( e__VW.WView, 0 ), view_w, 0.3 -> __view_set( e__VW.WView, 0, lerp(__view_get( e__VW.WView, 0 ), view_w, 0.3 )
+Converted builtin : line 6 : view_hview[0] = lerp(__view_get( e__VW.HView, 0 ), view_h, 0.3 -> __view_set( e__VW.HView, 0, lerp(__view_get( e__VW.HView, 0 ), view_h, 0.3 )
+
+Converting GML script : ${project_dir}\objects\objTombOfShri\Alarm_6.gml
+Converted description : /// @description Crazy Walls
+
+Converting GML script : ${project_dir}\objects\objTombOfShri\Alarm_5.gml
+Converted description : /// @description Mouse Following Spiral
+
+Converting GML script : ${project_dir}\objects\objTombOfShri\Alarm_4.gml
+Converted description : /// @description Slow Spiral /w Fat bullets FAT BULLETS
+
+Converting GML script : ${project_dir}\objects\objTombOfShri\Alarm_3.gml
+Converted description : /// @description Slow Spiral /w Fat bullets TINY BULLETS
+
+Converting GML script : ${project_dir}\objects\objTombOfShri\Alarm_2.gml
+Converted description : /// @description Slow and Fast Spiral
+
+Converting GML script : ${project_dir}\objects\objSatanRock\Other_0.gml
+Converted description : /// @description nah, loser!!!
+
+Converting GML script : ${project_dir}\objects\objTheGodZoomInBullet\Other_0.gml
+Converted description : /// @description nonon
+
+Converting GML script : ${project_dir}\objects\objSatan\Collision_08520f57-b111-4085-9d1c-e2f029926d06.gml
+Converted description : /// @description no
+
+Converting GML script : ${project_dir}\objects\objGameControl\Create_0.gml
+Converted description : /// @description Setting maps and items and weapons
+
+Converting GML script : ${project_dir}\objects\objGameControl\Alarm_10.gml
+Converted description : /// @description junk pile
+
+Converting GML script : ${project_dir}\objects\objGameControl\Alarm_9.gml
+Converted description : /// @description pacifist
+
+Converting GML script : ${project_dir}\objects\objGameControl\Alarm_5.gml
+Converted description : /// @description ENTIRE WAVE CRAP CODE
+
+Converting GML script : ${project_dir}\objects\objGameControl\Alarm_0.gml
+Converted description : /// @description adding one second
+
+Converting GML script : ${project_dir}\objects\objGameControl\Other_5.gml
+Converted description : /// @description destroying weapon pool
+
+Converting GML script : ${project_dir}\objects\objRareBird\Alarm_0.gml
+Converted description : /// @description bullet blast
+
+Converting GML script : ${project_dir}\objects\objMimic\Alarm_3.gml
+Converted description : /// @description single bullet
+
+Converting GML script : ${project_dir}\objects\objMimic\Alarm_2.gml
+Converted description : /// @description Bullet Blast
+
+Converting GML script : ${project_dir}\objects\objBulletParent\Alarm_7.gml
+Converted description : /// @description pierce stuff
+
+Converting GML script : ${project_dir}\objects\objBulletParent\Alarm_6.gml
+Converted description : /// @description duplishot
+
+Converting GML script : ${project_dir}\objects\objBossParent\Alarm_11.gml
+Converted description : /// @description /
+
+Converting GML script : ${project_dir}\objects\objPlayer\Create_0.gml
+Converted description : /// @description stupid variable dump
+
+Converting GML script : ${project_dir}\objects\objPlayer\Alarm_9.gml
+Converted description : /// @description deactivating use item, just a script (use_item_deactivate())/// @function deactivating use item, just a script 
+/// @param use_item_deactivate(
+
+Converting GML script : ${project_dir}\objects\objPlayer\Alarm_8.gml
+Converted description : /// @description you touched an enemy
+
+Converting GML script : ${project_dir}\objects\objPlayer\Alarm_6.gml
+Converted description : /// @description death avoid thing
+
+Converting GML script : ${project_dir}\objects\objPlayer\Alarm_5.gml
+Converted description : /// @description invincibility
+
+Converting GML script : ${project_dir}\objects\objPlayer\Alarm_4.gml
+Converted description : /// @description boom dude reload
+
+Converting GML script : ${project_dir}\objects\objPlayer\Alarm_3.gml
+Converted description : /// @description 2nd use item
+
+Converting GML script : ${project_dir}\objects\objPlayer\Alarm_2.gml
+Converted description : /// @description deactivating use item, just a script (use_item_deactivate())/// @function deactivating use item, just a script 
+/// @param use_item_deactivate(
+
+Converting GML script : ${project_dir}\objects\objPlayer\Alarm_0.gml
+Converted description : /// @description shoot can happen again
+
+Converting GML script : ${project_dir}\objects\objPlayer\Mouse_58.gml
+Converted description : /// @description Active ability
+
+Converting GML script : ${project_dir}\objects\objPlayer\Mouse_55.gml
+Converted description : /// @description active ability
+
+Converting GML script : ${project_dir}\objects\objPlayer\Mouse_53.gml
+Converted description : /// @description Level win
+
+Converting GML script : ${project_dir}\objects\objBoneBoyCircle\Alarm_0.gml
+Converted description : /// @description 
+
+Converting GML script : ${project_dir}\objects\objLilPuffer\Alarm_0.gml
+Converted description : /// @description ////////
+
+Converting GML script : ${project_dir}\objects\objPauseLetter\Alarm_0.gml
+Converted description : /// @description start twangin
+
+Converting GML script : ${project_dir}\objects\objGamblingMachine\Destroy_0.gml
+Converted description : /// @description When the shop goes bye bye this happens
+
+Converting GML script : ${project_dir}\objects\objGamblingMachine\Other_7.gml
+Converted description : /// @description 
+
+Converting GML script : ${project_dir}\objects\objBuyButton\Alarm_0.gml
+Converted description : /// @description Buy Type
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit.
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2.
+no //audiogroup for sound: sndForestMusic - setting to default //audio group.
+no //audiogroup for sound: sndDiseaseDeath - setting to default //audio group.
+no //audiogroup for sound: sndDynaMikeDeath - setting to default //audio group.
+no //audiogroup for sound: sndExplosion - setting to default //audio group.
+no //audiogroup for sound: sndAlienDeath - setting to default //audio group.
+no //audiogroup for sound: sndCriminalDeath - setting to default //audio group.
+no //audiogroup for sound: sndForestMusicFire - setting to default //audio group.
+no //audiogroup for sound: sndPipDeath - setting to default //audio group.
+no //audiogroup for sound: sndMenuMusic - setting to default //audio group.
+no //audiogroup for sound: sndShotSMG - setting to default //audio group.
+no //audiogroup for sound: sndSnowMusic - setting to default //audio group.
+no //audiogroup for sound: sndSpOfDespairDeath - setting to default //audio group.
+no //audiogroup for sound: sndSpiceDeath - setting to default //audio group.
+no //audiogroup for sound: sndSwampMusic - setting to default //audio group.
+no //audiogroup for sound: sndShotRifle - setting to default //audio group.
+no //audiogroup for sound: sndShotCannon - setting to default //audio group.
+no //audiogroup for sound: sndShotLaser - setting to default //audio group.
+no //audiogroup for sound: sndForestMusicShop - setting to default //audio group.
+no //audiogroup for sound: sndHurt1 - setting to default //audio group.
+no //audiogroup for sound: sndNoodleDeath - setting to default //audio group.
+no //audiogroup for sound: sndShotFlakPistol - setting to default //audio group.
+no //audiogroup for sound: sndShotPistol - setting to default //audio group.
+no //audiogroup for sound: sndVolcanoMusic - setting to default //audio group.
+no //audiogroup for sound: sndTurfDeath - setting to default //audio group.
+no //audiogroup for sound: sndSwampShopMusic - setting to default //audio group.
+no //audiogroup for sound: sndWastelandMusicShop - setting to default //audio group.
+no //audiogroup for sound: sndWastelandMusic - setting to default //audio group.
+game speed set to 60
+added compatibility script d3d/d3d_set_fog.gml
+added compatibility script draw/draw_set_blend_mode.gml
+added compatibility script draw/draw_set_blend_mode_ext.gml
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script object/object_set_depth.gml
+added compatibility script view/__view_get.gml
+added compatibility script view/__view_set.gml
+added compatibility script view/__view_set_internal.gml
+added compatibility script d3d/__init_d3d.gml
+added compatibility script view/__init_view.gml
+added compatibility script __init_global.gml
+added compatibility script __global_object_depths.gml

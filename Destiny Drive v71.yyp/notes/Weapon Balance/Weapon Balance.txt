@@ -1,0 +1,140 @@
+DPS - Damage per second
+RPS - Rounds per second
+RPM - Rounds per minute
+
+PISTOL
+	-supposed to be balanced with average speed, damage, and accuracy.
+	-damage should make it feel like you kill at an average speed.
+	-A fast shot speed to feel like its a real gun.
+	-Average accuracy that doesn't really get in the way of hitting enemies.
+	-The pistol damage should be what all other guns are based on.
+	
+DAMAGE = 5
+FIRE RATE = 10 frames (6 BPS/360 RPM) - 30 DPS
+SHOT SPEED = 6
+ACCURACY = 4
+
+SMG
+	-Supposed to be faster than the pistol.
+	-Less damage in turn for better firerate.
+	-Less accuracy than the pistol.
+	-Slightly faster shot speed than the pistol.
+	
+DAMAGE = 4
+FIRE RATE = 7 frames (8 BPS/480 RPM) - 32 DPS
+SHOT SPEED = 7
+ACCURACY = 6
+
+REVOLVER
+	-Supposed to be slower but more damaging than the pistol.
+	-Higher damage in turn for slower firerate.
+	-Slightly more accuracy than the pistol.
+	-Same shot speed as the pistol.
+	
+DAMAGE = 8
+FIRE RATE = 15 frames (4 BPS/240 RPM) - 32 DPS
+SHOT SPEED = 6
+ACCURACY = 2
+
+
+Pistol - Average Stats
+
+Swamp - Both weapons have same DPS
+Revolver - High damage, low firerate
+SMG - High firerate, low damage
+
+Forest - Now there is some change in DPS
+Hand Eagle - Slow firerate that can be made faster if you semi auto fire
+Rifle - High damage, low firerate
+Tommy - High firerate, low damage, low accuracy
+Twin - Shoot bullets at angles
+
+	-Hand Eagle - Lowest DPS at normal fire, high DPS at max fire
+		DAMAGE = 5.625
+		FIRE RATE = 18-7 frames (3-8 BPS/180-480 RPM) - 16.8-45 DPS
+		SHOT SPEED = 7
+		ACCURACY = 4
+	
+	-Rifle - Middle DPS of the bunch, but most accurate and reliable
+		DAMAGE = 11.6
+		FIRE RATE = 18 frames (3 BPS/180 RPM) - 35 DPS
+		SHOT SPEED = 8
+		ACCURACY = 1
+		
+	-Tommy - More DPS than Rifle, but innacuraccy makes it less reliable
+		DAMAGE = 2
+		FIRE RATE = 3 frames (20 BPS/1200 RPM) - 40 DPS
+		SHOT SPEED = 7
+		ACCURACY = 9
+			
+	-Twin - If both bullets hit same enemy, more than Tommy DPS, but bullets do half damage
+		DAMAGE = 7.5
+		FIRE RATE = 10 frames (6 BPS/360 RPM) - 45 DPS
+		SHOT SPEED = 7
+		ACCURACY = 1 (plus 10 degree offset)
+
+Volcano
+M17 - High damage if you click fast enough
+Burst - Middle of the bunch but accurate and reliable
+Hunting Rifle - Highest damage per shot, but slow firerate so it's at the middle/high?
+Wave Gun - High DPS against single targets, but innacurate and is made for just killing everything at a slow rate
+Akimbo Pistols - Kinda like the M17 of the 'fast' weapon branch
+Triple - Like wavegun for killing multiple things at once, but a bit more damage for less crowd control
+
+Snow //MAYBE REMOVE THIS PART OF THE WEAPON TREE, GIVE THE FINAL WEAPONS TWO LEVELS?
+global.w_tree[g, 0] = "m19, 0, 1"
+global.w_tree[g, 1] = "m_rifle, 0, 1"
+global.w_tree[g, 2] = "s_issue, 2, 3"
+global.w_tree[g, 3] = "s_rifle, 2, 3"
+global.w_tree[g, 4] = "b_hose, 4, 5"
+global.w_tree[g, 5] = "bounce, 4, 5"
+global.w_tree[g, 6] = "ak_smg, 6, 7"
+global.w_tree[g, 7] = "quad, 6, 7"
+
+g++ //5 City
+global.w_tree[g, 0] = "m20, 0, 1"
+global.w_tree[g, 1] = "p_burst, 0, 1"
+global.w_tree[g, 2] = "ss_issue, 2, 3"
+global.w_tree[g, 3] = "h_sniper, 2, 3"
+global.w_tree[g, 4] = "gatling, 4, 5"
+global.w_tree[g, 5] = "d_bounce, 4, 5"
+global.w_tree[g, 6] = "ak_rifle, 6, 7"
+global.w_tree[g, 7] = "arrow, 6, 7"
+
+g++ //6 Ocean
+global.w_tree[g, 0] = "m200, 0, 1"
+global.w_tree[g, 1] = "s_burst, 0, 1"
+global.w_tree[g, 2] = "vs_issue, 2, 3"
+global.w_tree[g, 3] = "s_scope, 2, 3"
+global.w_tree[g, 4] = "vortex, 4, 5"
+global.w_tree[g, 5] = "c_control, 4, 5"
+global.w_tree[g, 6] = "ak_spray, 6, 7"
+global.w_tree[g, 7] = "cube, 6, 7"
+
+g++ //7 Temple
+global.w_tree[g, 0] = "m400, 0, 1"
+global.w_tree[g, 1] = "u_burst, 2, 3"
+global.w_tree[g, 2] = "ats_issue, 4, 5"
+global.w_tree[g, 3] = "l_rifle, 6, 7"
+global.w_tree[g, 4] = "fury, 8, 9"
+global.w_tree[g, 5] = "dc_control, 10, 11"
+global.w_tree[g, 6] = "ak_shot, 12, 13"
+global.w_tree[g, 7] = "circle, 14, 15"
+
+g++ //8 Edge
+MBL00D -
+TEMP00 - 
+HYPER BURST - Can get the most damage, but takes a while
+STORM BURST - 
+THE MOST STANDARIZED RIFLE - Middle of the bunch, but easiest to use
+MOMENTUM RIFLE - Potential for most damage, but you have to get close up? Maybe remove
+THE PROFESSIONAL - Tie for highest damage per shot but takes longer and more effort to get that damage
+RISK RIFLE - Highest damage per shot
+SMART GUN - Kills second slowest
+SPIRIT BULLETS - Kills the slowest
+ROTATOR - 
+PREDICTOR -
+AKIMBO GRENADE LAUNCHERS -
+MY LITTLE FRIENDS -
+POWERHOUSE -
+INFINITE GUN -

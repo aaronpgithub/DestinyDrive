@@ -1,0 +1,47 @@
+GAME DESIGN
+BALANCE
+ART
+MUSIC
+SOUND
+
+Features:
+14 Levels, all with different gameplay themes
+60+ Bosses (including minibosses)
+100+ Enemies
+200+ Items
+15+ Challenges
+10+ Characters, all with unique weapons and abilities
+
+//A Large Soundtrack
+//Token Currency System
+//Smart Wave Generation
+//Graphical Options
+//Rebindable Controls
+//Saveable Control Schemes
+//Save System
+//Achivements
+
+
+FOR ALPHA 1
+At least have level 1 be polished a bit
+
+rain particles that are behind wall
+
+Waves before boss too hard!
+Eye of the Storm is too hard!
+The mutant is pretty damn hard!
+
+TODO
+	Remake swamp bosses
+	Remake Forest
+	Remake Forest bosses
+	Remake Forest Minibosses
+	Remake Volcano
+	Remake Volcano bosses
+	Remake Volcano minibosses
+	Add volcano minibosses
+
+If item pool runs out of items, see what items player has and readd items that arent those
+	-If you use death's cup on each level to get 10 items, you COULD run out of items
+	
+Swamp THE PLAGUE needs some warning for his circle attacks

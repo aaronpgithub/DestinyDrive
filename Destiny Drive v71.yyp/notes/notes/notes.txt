@@ -1,0 +1,56 @@
+check that attacks have time buffers
+	orange wizard needs to show attack better
+	spooky scotts attacks
+
+
+
+its not a bug that bloody coin appears in the shop, its the only damage up that does that but its much weaker
+
+third forest miniboss sine wall is easy
+
+If take all three secret levels with only one level in between, go to secret railroad? You're on a portal monochrome world on a train
+	Fight 10 waves with 10 special enemies and 2 small enemies that can't be killed until special is killed
+	No miniboss and no boss? Each special enemy kinda lays out for a whole boss
+	
+	Acheivement for characters beating secret railroad?
+
+MILITARY WEAPONRY
+make another boss be constant sine wave, make MW constant Mutt Gatling attack
+
+Make more city enemies
+make 'Cool Blaster' a tiny enemy that doesnt take up a spot
+
+Glitch shot - raise damage
+			
+RELICS : Not interesting enough for a challenge, work well with mix and matching maybe remove
+	-Kamikaze - Every enemy drops a corpse.
+	-Pain - Damage for all bullets is doubled.
+	-Impatience - Increased firerate, lower damage.
+	-Endless - All bullets wrap.
+
+CHALLENGES
+	-Health Leak - Lose 1 HP each wave. Beating the level regenerates HP.
+	-Golden Veins - Health is repleaced by gold. Every item costs money. You shoot gold. Earn money by beating waves and killing enemies.
+	-Pacifist - You can't shoot. Beat waves over time.
+	-Gauntlet - Get 50 HP, but you can't earn any more.
+	-Loyalty - You can't choose weapons.
+	-Wimp - Get 3 HP. Beat one level.
+	-Slo-Mo - Enemy bullet speed is halved. Die in one hit.
+	-Dizzy - Inverted movement.
+	-I'm Blind! - Constant horror apparition darkness.
+	-Boss Rush - Fight every boss and miniboss in the game.
+	-Amnesia - All enemies and items are question marks.
+	-Beefcake - All enemies are champions.
+	-Present - Get 20 items, but no more items.
+	-Enemy Rush - Fight waves that have 9 of each enemy.
+	-Transform - Get a random weapon each wave.
+	-The Devil's Deeds - Play as dastardly devil, fight three bosses specially made to impliment teleportation.
+	-Torture King - Take damage over time. Hit enemy bullets to regain HP. Taking too many bullets at a time kills you.
+	-Locked - Locked in place! (?)
+	-Super Mega Challenge - A culmination of multiple challenges. (?)
+		-Loyalty, Wimp, Dizzy, Im Blind, Boss Rush, Enemy Rush, Amnesia, Beefcake, Present
+		
+	-Morse - SECRET CHALLENGE - Listen to the noises to dodge the bullets correctly.
+	
+Enemy that makes a lot of bullets on each side of the road to choke your playing field
+

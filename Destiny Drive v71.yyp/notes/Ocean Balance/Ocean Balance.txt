@@ -1,0 +1,3 @@
+Ocean is another more slow and methodical level, you can move around the whole screen. 
+Enemies can spawn across whole screen, more random positioning. Vertical bullets is the theme.
+Enemies spawn across whole screen and are much closer to the right, as to give a lot of playing field.
